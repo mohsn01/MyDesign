@@ -4,7 +4,7 @@
   - [ AUGY ](AboutUs/AUGY.md)
   - [ Eric ]()
   - [ Mahir ](AboutUs/Mahir.md)
-  - [ Winki ]()
+  - [ Winki ](AboutUs/Winki.md)
   - [ Hirsi ](AboutUs/Hirsi.md)
   - [ Khaled ]()
   - [ Mohamud ]()
