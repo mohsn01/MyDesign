@@ -5,5 +5,5 @@ He is also taking part in many projects and award one top 5 highest projects at 
 He is interested in Engineering and projects such as Data Science and the Internet of Things (IoT/IOE). 
 
 ## My Projects 
-My Project  see more details
+My Project  see more details here
 ![](../img/logo.png)
