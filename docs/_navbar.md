@@ -1,7 +1,7 @@
 <!-- 侧边栏 docs/_navbar.md -->
 - [Home]()
 - 1
-  - 2
+  - [2]
      - 3
 - [About US]()
   - [ AUGY ](AboutUs/AUGY.md)
