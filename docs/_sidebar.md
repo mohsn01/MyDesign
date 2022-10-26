@@ -10,7 +10,7 @@
     - [ ARDUINO BOARD]()
     - [ Arduino Software]()
   - [3. CAD]()
-   - [khl](VER/khl.md)
+   - [khl](Cad/Introduction%20of%20Cad.md)
   - [4. 3D printing]()
 - Final project
   - topic
