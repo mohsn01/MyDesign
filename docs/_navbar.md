@@ -1,6 +1,6 @@
 <!-- 侧边栏 docs/_navbar.md -->
-- [Home](#)
+- [Home]()
 - [About US]()
-- [EN]
-  - [CN]
-  - [SOM]
+- [EN]()
+  - [CN]()
+  - [SOM]()
