@@ -2,7 +2,7 @@
 - [Home]()
 - [About US]()
   - [ AUGY ]()
-  - [Eric]()
+  - [ Eric ]()
   - [ Mahir ](AboutUs/Mahir.md)
   - [ Winki ]()
   - [ Hirsi ]()
