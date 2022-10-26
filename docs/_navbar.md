@@ -1,14 +1,13 @@
 <!-- 侧边栏 docs/_navbar.md -->
 - [Home]()
 - [About US]()
-  - [ AUGY ]()
+  - [ AUGY ](AboutUs/AUGY.md)
   - [ Eric ]()
   - [ Mahir ](AboutUs/Mahir.md)
   - [ Winki ]()
-  - [ Hirsi ]()
+  - [ Hirsi ](AboutUs/Hirsi.md)
   - [ Khaled ]()
   - [ Mohamud ]()
-
 - [EN]()
   - [CN]()
   - [SOM]()
