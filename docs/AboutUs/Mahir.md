@@ -1,8 +1,9 @@
 
+
 ### Abdiaziz Omar Hassan 
-Abdiaziz Omar Hassan is an Academician who holds a Bachelors in Telecommunications engineering from Hormuud University, also working on a Master's in Information Security Engineering currently in Anhui University of Science and Technology, He is an Author / Researcher / Engineer.
+I am Abdiaziz Omar Hassan is an Academician who holds a  Bachelors in Telecommunications engineering from Hormuud  University, also Graduated on a Master's in *Information Security Engineering* at Anhui University of Science and Technology, I am Curently doing *Professional Master* Industrial Engineering at **Zhejiang University**  He is an **_Author, Researcher, Engineer_**.
 He is also taking part in many projects and award one top 5 highest projects at Hormuud university.
-He is interested in Engineering and projects such as Data Science and the Internet of Things (IoT/IOE). 
+He is interested in Engineering and projects such as Data Science, Industrial Engineering and the Internet of Things **(IoT/IOE)**. 
 
 ## My Projects 
 My Project  see more details here
