@@ -1,7 +1,7 @@
 1. [UGWUEKE CHIDUBEM EMMANUEL](AboutUs/Augy.md)
 
 
-                      2. [Abdiaziz Omar HAssan](Mahir.md)
+2. [Abdiaziz Omar HAssan](Mahir.md)
 
 
 3. [WALUSIMBI PETER](Peter.md) 
