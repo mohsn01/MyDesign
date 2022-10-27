@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <style>
+  <!-- <style>
     @font-face {
     font-family: 'Segoe UI Web (West European)';
     src: url('https://static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-westeuropean/segoeui-light.woff2')
@@ -77,23 +77,23 @@
   
   /* ############################################################### */
   
-  header {
+  /* header {
     display: flex;
     align-items: center;
-    position: Right;
+    position: fixed;
     top: 0px;
-    background-color: rgb(10, 25, 47);
+    background-color: red;
     z-index: 11;
     width: 100%;
     height: 80px;
     box-shadow: rgba(2, 12, 27, 0.7) 0px 10px 30px -10px;
-  }
+  } */
   nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
     position: relative;
-    float: right;
+    
     width: 100%;
     color: rgb(204, 214, 246);
     font-family: 'SF Mono', 'Fira Code', 'Fira Mono', 'Roboto Mono',
@@ -103,6 +103,34 @@
     padding: 0 40px;
     margin: 0;
   }
+  
+  .topnav {
+  overflow: hidden;
+  background-color: #333;
+  }
+
+ .topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  }
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+ }
+
+ .topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+ }
+
+ .topnav-right {
+  float: right;
+ }
   ::selection {
     background-color: #1e3752;
   }
@@ -139,31 +167,31 @@
   .links li a:hover {
     color: rgb(233, 237, 243);
   }
-  </style>
-  <!-- <link rel="stylesheet" href="css.css"> -->
+  </style> -->
+  <!-- <link rel="stylesheet" href="style.css"> -->
   <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Varela&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <!-- <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet"> -->
+  <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> -->
   <meta charset="UTF-8">
   <title>Document</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"> 
 </head>
 <body>
-  <!--
-<ul>
+  
+<!-- <ul>
 
   <li><a class="active" href="#home">Home</a></li>
   <li><a href="#news">News</a></li>
   <li><a href="#contact">Contact</a></li>
   <li><a href="#about">About</a></li>
-</ul>
--->
+</ul> -->
+
   <div id="app"></div>
   <script>
     window.$docsify = {
